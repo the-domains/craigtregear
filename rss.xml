@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[craigtregear]]></title>
         <description><![CDATA[craigtregear]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/craigtregear/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 21:44:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 22:55:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/craigtregear/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a7ec479-ddb1-4e9a-827f-6f10d609d80b.jpg">]]></description>
+            <link>https://thegrid.ai/craigtregear/503b9a13-8d28-4324-8d3c-d8af808b04b3/index.html</link>
+            <guid isPermaLink="false">503b9a13-8d28-4324-8d3c-d8af808b04b3</guid>
+            <pubDate>Sat, 12 Dec 2015 22:55:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is my first post on The Grid</p>]]></description>
-            <link>undefinedcba3f0a7-91ff-4562-9d9f-3753db3430ad/index.html</link>
+            <link>https://thegrid.ai/craigtregear/cba3f0a7-91ff-4562-9d9f-3753db3430ad/index.html</link>
             <guid isPermaLink="false">cba3f0a7-91ff-4562-9d9f-3753db3430ad</guid>
             <pubDate>Sat, 12 Dec 2015 21:44:11 GMT</pubDate>
         </item>
