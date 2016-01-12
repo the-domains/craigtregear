@@ -1,28 +1,40 @@
-name: craigtregear
-favicon: null
 layout_spectrum: 0.94181
-typography_spectrum: 0.28132
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fefefe'
-    - '#0e0a09'
-    - '#4a4542'
-    - '#fe8e0e'
-    - '#fb291c'
-  brandStrength: 0.3125
-  lightness: 0.0625
-  saturation: 0.75
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.75
+  lightness: 0.0625
+  brandStrength: 0.3870968
+  brandColors:
+    - '#FFFFFF'
+    - '#282727'
+    - '#88785B'
+    - '#C6BDB4'
+    - '#A3C6FB'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.28132
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: craigtregear
